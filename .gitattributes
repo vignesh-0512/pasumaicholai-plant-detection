@@ -12,3 +12,4 @@ flaskApp/Procfile filter=lfs diff=lfs merge=lfs -text
 flaskApp/Readme.md filter=lfs diff=lfs merge=lfs -text
 flaskApp/__pycache__ filter=lfs diff=lfs merge=lfs -text
 flaskApp/plant_disease_model_1_latest.pt filter=lfs diff=lfs merge=lfs -text
+*/* filter=lfs diff=lfs merge=lfs -text
