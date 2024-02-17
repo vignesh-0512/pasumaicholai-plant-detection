@@ -32,3 +32,5 @@ C:/Users/vigne/AppData/Local/Temp filter=lfs diff=lfs merge=lfs -text
 /unins000.exe filter=lfs diff=lfs merge=lfs -text
 /unins000.msg filter=lfs diff=lfs merge=lfs -text
 /usr filter=lfs diff=lfs merge=lfs -text
+flakApp filter=lfs diff=lfs merge=lfs -text
+flaskApp/* filter=lfs diff=lfs merge=lfs -text
